@@ -1,0 +1,7 @@
+{
+	"students":[
+	{"id":1,"name":"Ramazan","surname":"İperlik","age":27},
+	{"id":2,"name":"Deneme2","surname":"deneme2","age":20},
+	{"id":3,"name":"Deneme3","surname":"deneme3","age":30}
+	]
+}
